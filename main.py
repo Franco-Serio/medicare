@@ -1,3 +1,4 @@
+# teste na branch joao
 # Forma de executar: python main.py 
  
 from view.login_view import LoginView 
